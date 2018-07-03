@@ -1,0 +1,10 @@
+RESOURCE_GROUP: WeEu-Tho-Prd-Rsg-Tho-01
+SUBNET: WeEU-Tho-Prd-Vnet-Snt-Tho-01
+VNET_NAME: WeEu-Tho-Prd-Vnet-01
+NSG: WeEU-Tho-Prd-Nsg-Tho-01
+MACHINE_NAME: weeuthopltho01
+
+DB_SPACE: 500
+DB_SIZE: M
+
+ADMIN_USER: ofmvmadmin
