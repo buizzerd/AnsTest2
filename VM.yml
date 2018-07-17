@@ -1,5 +1,6 @@
 ---
 - name: Create VM
+  host: localhost
   connection: local
   tasks:
   - name: Create VM
